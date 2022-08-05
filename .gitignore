@@ -1,0 +1,4 @@
+bin/
+org/
+wwwroot/
+*.log
