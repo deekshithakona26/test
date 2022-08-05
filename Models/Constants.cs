@@ -18,5 +18,6 @@ namespace GETECINo.Models
 
         public static string health = "";
         public static string HealthCommand = "HealthCommand";
+        public static string constantkey = "constantkey";
     }
 }
